@@ -1,0 +1,368 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Questions
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 36bec745ff9a550478dde50f0b896ae3,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.size
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[0].UpperQuestion
+    value: Drink water from a flushed public toilet
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[0].UpperImage
+    value: 
+    objectReference: {fileID: -4733716742074557153, guid: 57d3e51f7117d4049917fe63e7df5934,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[0].UpperProcent
+    value: 56
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[0].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[0].LowerQuestion
+    value: Lick a public bathroom floor
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[0].LowerImage
+    value: 
+    objectReference: {fileID: 8267609380759618299, guid: 57d3e51f7117d4049917fe63e7df5934,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[0].LowerProcent
+    value: 44
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[1].UpperQuestion
+    value: "\u200BHave a romantic relationship with a dog"
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[1].UpperImage
+    value: 
+    objectReference: {fileID: 8328617583894320252, guid: 3bb7d9fd8be7aa042a2df16848473e6d,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[1].UpperProcent
+    value: 36
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[1].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[1].LowerQuestion
+    value: Have a romantic relationship with a cat
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[1].LowerImage
+    value: 
+    objectReference: {fileID: -9151545574468351441, guid: 3bb7d9fd8be7aa042a2df16848473e6d,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[1].LowerProcent
+    value: 64
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[2].UpperQuestion
+    value: Always be constipated
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[2].UpperImage
+    value: 
+    objectReference: {fileID: 6778009989428201717, guid: 8fa7041af90824b42a62ac2687a57828,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[2].UpperProcent
+    value: 72
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[2].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[2].LowerQuestion
+    value: Always have diarrhea
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[2].LowerImage
+    value: 
+    objectReference: {fileID: -6167254000975356554, guid: 57d3e51f7117d4049917fe63e7df5934,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[2].LowerProcent
+    value: 28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[3].UpperQuestion
+    value: Cheat on someone
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[3].UpperImage
+    value: 
+    objectReference: {fileID: -6015657135445847843, guid: d7f5bcf803711994ebf0e6998f69a7d5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[3].UpperProcent
+    value: 67
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[3].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[3].LowerQuestion
+    value: Be cheated on
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[3].LowerImage
+    value: 
+    objectReference: {fileID: -1549021903866758723, guid: d7f5bcf803711994ebf0e6998f69a7d5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[3].LowerProcent
+    value: 33
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[4].UpperQuestion
+    value: Never experience romantic love at all
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[4].UpperImage
+    value: 
+    objectReference: {fileID: 7848302235489104036, guid: 8fa7041af90824b42a62ac2687a57828,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[4].UpperProcent
+    value: 82
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[4].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[4].LowerQuestion
+    value: Discover your true love but be unable to have them
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[4].LowerImage
+    value: 
+    objectReference: {fileID: -4133092456860209391, guid: d7f5bcf803711994ebf0e6998f69a7d5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[4].LowerProcent
+    value: 18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[5].UpperQuestion
+    value: Marry your parents
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[5].UpperImage
+    value: 
+    objectReference: {fileID: 1301767681471140212, guid: d7f5bcf803711994ebf0e6998f69a7d5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[5].UpperProcent
+    value: 22
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[5].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[5].LowerQuestion
+    value: Marry your siblings
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[5].LowerImage
+    value: 
+    objectReference: {fileID: 5355447240132418324, guid: d7f5bcf803711994ebf0e6998f69a7d5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[5].LowerProcent
+    value: 78
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[6].UpperQuestion
+    value: Tongue-kiss a dog/cat
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[6].UpperImage
+    value: 
+    objectReference: {fileID: 8328617583894320252, guid: 3bb7d9fd8be7aa042a2df16848473e6d,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[6].UpperProcent
+    value: 67
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[6].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[6].LowerQuestion
+    value: Tongue-kiss a stranger's armpit
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[6].LowerImage
+    value: 
+    objectReference: {fileID: -8658937652473218412, guid: d7f5bcf803711994ebf0e6998f69a7d5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[6].LowerProcent
+    value: 33
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[7].UpperQuestion
+    value: Be stranded in North Korea for 50 years
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[7].UpperImage
+    value: 
+    objectReference: {fileID: -4179790139218520629, guid: 4dbfb485bedfcb242a27044d98791e71,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[7].UpperProcent
+    value: 74
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[7].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[7].LowerQuestion
+    value: Spend 50 years of jail in russia
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[7].LowerImage
+    value: 
+    objectReference: {fileID: 5751696691329572327, guid: 4dbfb485bedfcb242a27044d98791e71,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[7].LowerProcent
+    value: 26
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[8].UpperQuestion
+    value: Go to jail for one year
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[8].UpperImage
+    value: 
+    objectReference: {fileID: -5067482845926381539, guid: 57d3e51f7117d4049917fe63e7df5934,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[8].UpperProcent
+    value: 22
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[8].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[8].LowerQuestion
+    value: Receive three years of house arrest
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[8].LowerImage
+    value: 
+    objectReference: {fileID: 6531860309914477551, guid: 57d3e51f7117d4049917fe63e7df5934,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[8].LowerProcent
+    value: 78
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[9].UpperQuestion
+    value: Be a super villain
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[9].UpperImage
+    value: 
+    objectReference: {fileID: 903485352534103244, guid: d7f5bcf803711994ebf0e6998f69a7d5,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[9].UpperProcent
+    value: 42
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[9].IDQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[9].LowerQuestion
+    value: Be a superhero
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[9].LowerImage
+    value: 
+    objectReference: {fileID: 3007090231523485305, guid: 3ee5100976f01ec45b837a8f6e8723dc,
+      type: 3}
+  - target: {fileID: 0}
+    propertyPath: ObjectQuestion.Array.data[9].LowerProcent
+    value: 58
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: UpperImage
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: UpperQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: UpperProcent
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: UpperProcent_Text
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LowerImage
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LowerQuestion
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LowerProcent
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LowerProcent_Text
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: IntQuestion
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

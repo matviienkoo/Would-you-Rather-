@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "143761568339",
+    "firebase_url": "https://goroskop-12e09-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "goroskop-12e09",
+    "storage_bucket": "goroskop-12e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143761568339:android:72e9b90796f7dd18b08ca6",
+        "android_client_info": {
+          "package_name": "com.Goriskop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143761568339-tvot8m44dnkmhpfrt6evthpump14bu0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrCHuvyXdHBTBpuPRq0cPXUbhIU7IFyfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143761568339-tvot8m44dnkmhpfrt6evthpump14bu0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143761568339:android:1a91d53a99707474b08ca6",
+        "android_client_info": {
+          "package_name": "com.ded.Goriskop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143761568339-tvot8m44dnkmhpfrt6evthpump14bu0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrCHuvyXdHBTBpuPRq0cPXUbhIU7IFyfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143761568339-tvot8m44dnkmhpfrt6evthpump14bu0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

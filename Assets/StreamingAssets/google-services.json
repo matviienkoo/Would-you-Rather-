@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295940493620",
+    "project_id": "would-you-rather-b0b9e",
+    "storage_bucket": "would-you-rather-b0b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295940493620:android:ba9403eada068ca39a9561",
+        "android_client_info": {
+          "package_name": "com.WouldYouRather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8DleyzQ6JjUmfu96u0HAKu5ROGyyKscg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
